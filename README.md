@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# 서현역 맛집 뽀개기
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| 상호            | 메뉴                            | 가격대           | 장,단점                                                       | 링크                                           |
+| --------------- | ------------------------------- | ---------------- | ------------------------------------------------------------- | ---------------------------------------------- |
+| 주누돈까스      | 돈까스                          | 1만원            | 양 많음, 밥 리필 가능 / 원래 저렴했는데 최근에 가격이 오름 ㅠ |                                                |
+| 은행골          | 초밥집                          | 12,000원 부터    | 점심때 대기줄 있음                                            |                                                |
+| 스시홍          | 초밥집                          | 런치 8,000원     | 양도 괜찮고, 맛도있음                                         |                                                |
+| 라하노카레      | 카레                            | 7~800원          | 양이 많진 않음                                                |                                                |
+| 청국장집        | 청국장,김치찌개,순두부,된장찌개 | 9000             |                                                               | https://blog.naver.com/snue1020/222875009194   |
+| 김치찜          | 김치찜                          | 9000대           | 양 많음                                                       | https://blog.naver.com/casasony/222876076556   |
+| 양평해장국      | 해장국                          | 1만원            | 고추기름 해장국                                               | https://blog.naver.com/turlmoongi/222871752013 |
+| 순댓국집        | 순대국                          | 9000             | 10분정도 걸어야 함.                                           | https://blog.naver.com/webkim/222837761911     |
+| 오끼참치        | 알탕,알밥 , 회덮밥 , 연어돈부리 | 1만원~1만원 초반 | 알탕이 마싰음 / 10분정도 걸어야 함.                           |                                                |
+| 니뽕내뽕        | 파스타 , 리조또                 | 9천원대          | 가까움                                                        |                                                |
+| 소담칼국수      | 칼국수, 수제비                  | 8,9000원대       | 가까움                                                        | https://blog.naver.com/4444yeon/222812291149   |
+| 연안식당        | 꼬막비빔밥,                     | 1만원 초반       | 가까움                                                        |                                                |
+| 청년다방        | 떡볶이                          |                  | 가까움                                                        |                                                |
+| 미분당          | 쌀국수                          | 9~11,000원       | 가까움 / 점심때 대기줄 있음                                   |                                                |
+| 엉터리 숯불구이 | 백반짐, 찌개,불고기 쌈밥        | 7,8000원         | 가깝고 싼데 마싰음                                            | https://realtaeheon.tistory.com/1288           |
+|                 |                                 |                  |                                                               |                                                |
+| < 그외 >        |                                 |                  |                                                               |                                                |
+| 장호덕손만두    | 포장만되는데 마싰음ㅠㅠ         |                  |                                                               |                                                |
